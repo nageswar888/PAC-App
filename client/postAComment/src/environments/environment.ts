@@ -10,8 +10,7 @@ export const environment = {
 /*
   API_ROOT: 'http://localhost:3333/',
 */
-  API_ROOT: 'https://my-app-pac-server.herokuapp.com/',
-
+  API_ROOT: 'https://nag-pac-server.herokuapp.com/',
 };
 
 /*
